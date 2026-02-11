@@ -35,9 +35,9 @@ export const Navbar = () => {
         isVisible ? "translate-y-0" : "-translate-y-full"
       }`}
     >
-      <div data-uid="i7ORvwuzbfer6Hob" className="relative content-center items-center box-border caret-transparent gap-x-2.5 flex h-min justify-center gap-y-2.5 w-full overflow-clip">
-        <div data-uid="PhBeS7I7CI080Kye" className="relative content-center items-center box-border caret-transparent gap-x-6 flex shrink-0 h-min justify-between max-w-[1220px] gap-y-6 w-full overflow-clip p-5 md:px-[60px]">
-          <div data-uid="j9ghRmHdb8UVuFNX" className="relative content-center items-center box-border caret-transparent gap-x-2.5 flex shrink-0 h-min justify-start gap-y-2.5 overflow-clip">
+      <div data-uid="i7ORvwuzbfer6Hob" className="relative content-center items-center box-border caret-transparent gap-x-2.5 flex h-min justify-center gap-y-2.5 w-full">
+        <div data-uid="PhBeS7I7CI080Kye" className="relative content-center items-center box-border caret-transparent gap-x-6 flex shrink-0 h-min justify-between max-w-[1220px] gap-y-6 w-full p-5 md:px-[60px]">
+          <div data-uid="j9ghRmHdb8UVuFNX" className="relative content-center items-center box-border caret-transparent gap-x-2.5 flex shrink-0 h-min justify-start gap-y-2.5">
             <NavbarLogo data-uid="gbZpdTCN0J96q1W1" />
           </div>
           <DesktopMenu data-uid="GRazN9nztGXybvhm" className="!hidden md:!flex" />
