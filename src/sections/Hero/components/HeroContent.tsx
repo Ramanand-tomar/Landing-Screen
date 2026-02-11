@@ -53,11 +53,11 @@ export const HeroContent = () => {
               </div>
             </a>
           </div> */}
-          <div className="flex flex-row items-center mt-2 justify-center gap-3 md:gap-4 w-full md:w-auto">
+          <div className="flex flex-row items-center mt-2 justify-center  gap-3 md:gap-4 w-full md:w-auto">
           {/* Primary CTA */}
           <a
             href="https://doxy.me/v2/provider-selector/?accountType=free"
-            className="flex h-[48px] md:h-[52px] items-center justify-center bg-[#63D1C4] hover:bg-[#58bdb1] text-neutral-800 px-5 md:px-8 rounded-[10px] text-[15px] md:rounded-xl font-suisse_intl_medium text-[14px] md:text-[15px] font-medium tracking-tight md:tracking-wide transition-colors w-auto shadow-sm"
+            className="flex h-[48px] md:h-[52px] items-center justify-center border border-black/10 bg-[#63D1C4] hover:bg-[#58bdb1] text-neutral-800 px-5 md:px-8 rounded-[10px] text-[15px] md:rounded-xl font-suisse_intl_medium text-[14px] md:text-[15px] font-medium tracking-tight md:tracking-wide transition-colors w-auto shadow-sm"
           >
             Get started for free
           </a>
@@ -65,7 +65,7 @@ export const HeroContent = () => {
           {/* Secondary CTA */}
           <a
             href="./pricing"
-            className="flex h-[48px] md:h-[52px] items-center justify-center bg-white border border-zinc-200 hover:bg-stone-50 text-neutral-800 px-5 md:px-8 rounded-[14px] md:rounded-xl font-suisse_intl_medium text-[14px] md:text-[15px] font-medium tracking-tight md:tracking-wide transition-colors w-auto shadow-sm gap-2"
+            className="flex h-[48px] md:h-[52px] items-center justify-center border border-black/10 bg-white border border-zinc-200 hover:bg-stone-50 text-neutral-800 px-5 md:px-8 rounded-[14px] md:rounded-xl font-suisse_intl_medium text-[14px] md:text-[15px] font-medium tracking-tight md:tracking-wide transition-colors w-auto shadow-sm gap-2"
           >
             Explore plans
             <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg" className="transform translate-y-[0.5px]">
