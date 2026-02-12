@@ -1,8 +1,8 @@
 const badges = [
-  { name: "HIPAA-compliant", icon: "https://c.animaapp.com/mlgk6ag9Ar1CYd/assets/icon-3.svg" },
+  { name: "Enterprise-grade security", icon: "https://c.animaapp.com/mlgk6ag9Ar1CYd/assets/icon-3.svg" },
   { name: "SOC 2-certified", icon: "https://c.animaapp.com/mlgk6ag9Ar1CYd/assets/icon-3.svg" },
-  { name: "Free BAA", icon: "https://c.animaapp.com/mlgk6ag9Ar1CYd/assets/icon-3.svg" },
-  { name: "CPRA-compliant", icon: "https://c.animaapp.com/mlgk6ag9Ar1CYd/assets/icon-3.svg" },
+  { name: "Privacy-first", icon: "https://c.animaapp.com/mlgk6ag9Ar1CYd/assets/icon-3.svg" },
+  { name: "Global compliance", icon: "https://c.animaapp.com/mlgk6ag9Ar1CYd/assets/icon-3.svg" },
   { name: "End-to-end encrypted", icon: "https://c.animaapp.com/mlgk6ag9Ar1CYd/assets/icon-3.svg" },
   { name: "GDPR-compliant", icon: "https://c.animaapp.com/mlgk6ag9Ar1CYd/assets/icon-3.svg" },
 ];

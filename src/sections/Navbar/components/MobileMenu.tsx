@@ -7,7 +7,7 @@ export const MobileMenu = () => {
     <>
     <div className="md:hidden">
       <a
-            href="https://doxy.me/v2/provider-selector/?accountType=free"
+            href="#"
             className="flex h-[40px] items-center justify-center bg-white hover:bg-[#58bdb1] text-neutral-800 px-5 md:px-8 rounded-[10px] text-[15px] md:rounded-xl font-suisse_intl_medium text-[14px] md:text-[15px] font-medium tracking-tight md:tracking-wide transition-colors w-auto shadow-sm"
           >
             Sign in
@@ -43,22 +43,22 @@ export const MobileMenu = () => {
               Blog
             </div>
             <a data-uid="viBNncZZxQBKtExN"
-              href="./pricing"
+              href="#"
               className="text-neutral-800 text-base font-medium font-suisse_intl_medium"
               onClick={() => setIsOpen(false)}
             >
-              TeleHealth.org
+              AI Video Experts
             </a>
             <div data-uid="rSgUh0AACyRMjJiJ" className="flex flex-col gap-3 pt-4">
               <a data-uid="u3mjLjqjzsYcvYGH"
-                href="https://doxy.me/v2/sign-in"
+                href="#"
                 className="text-neutral-800 text-base font-medium bg-white shadow-[rgba(15,12,12,0.01)_0px_4px_6px_-6px,rgba(16,12,12,0.08)_0px_0px_0px_1px,rgba(0,0,0,0.07)_0px_0.361312px_0.216787px_-1.25px,rgba(0,0,0,0.06)_0px_1.37312px_0.823872px_-2.5px,rgba(0,0,0,0.03)_0px_6px_3.6px_-3.75px] px-6 py-3 rounded-lg text-center font-suisse_intl_medium"
                 onClick={() => setIsOpen(false)}
               >
                 Sign in
               </a>
               <a data-uid="7jGgGw8LSteHs9p8"
-                href="https://doxy.me/sign-up?accountType=free"
+                href="#"
                 className="text-neutral-800 text-base font-medium bg-[#63D1C4] shadow-[rgba(255,255,255,0.15)_0px_4px_6px_0px_inset,rgba(0,0,0,0.05)_0px_1px_2px_0px,rgba(0,0,0,0.06)_0px_1px_0px_0px] px-6 py-3 rounded-lg text-center border border-black/10 font-suisse_intl_medium"
                 onClick={() => setIsOpen(false)}
               >

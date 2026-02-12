@@ -7,7 +7,7 @@ export const FooterBottom = () => {
       <div data-uid="hWKsWqQMMszu7tp3" className="relative content-start items-start box-border caret-transparent gap-x-4 flex basis-auto flex-col grow-0 shrink-0 h-min justify-start gap-y-4 w-full py-8 md:content-center md:items-center md:gap-x-10 md:basis-0 md:flex-row md:grow md:gap-y-10 md:w-px md:py-0">
         <div data-uid="1tbNFmUkqMfBytiX" className="relative box-border caret-transparent flex flex-col shrink-0 justify-start text-nowrap">
           <p data-uid="m933sVHT41HF9k2t" className="text-neutral-800 text-sm font-semibold box-border caret-transparent tracking-[0.28px] leading-[19.6px] text-nowrap font-suisse_intl_regular">
-            © Doxy.me Inc.
+            © BeyondChat Inc.
           </p>
         </div>
         <div data-uid="nkvsV6LNsiZqkPrb" className="relative content-start items-start box-border caret-transparent gap-x-4 flex basis-auto flex-col grow-0 shrink-0 h-min justify-start gap-y-4 w-full md:content-center md:items-center md:gap-x-8 md:basis-0 md:flex-row md:grow md:gap-y-8 md:w-px">

@@ -23,10 +23,10 @@ export const FooterLinks = () => {
       <FooterColumn data-uid="plhuG6NK6l4op2SO"
         title="Resources"
         links={[
-          { text: "Help center", href: "https://help.doxy.me/en/" },
-          { text: "Telehealth.org", href: "https://telehealth.org/" },
+          { text: "Help center", href: "#" },
+          { text: "AI Video Experts", href: "#" },
           { text: "Blog", href: "./media/blog" },
-          { text: "Status", href: "https://status.doxy.me/" },
+          { text: "Status", href: "#" },
         ]}
       />
     </div>

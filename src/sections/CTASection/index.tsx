@@ -19,7 +19,7 @@ export const CTASection = () => {
       <div className="absolute inset-0 z-0">
         <img
           src="https://c.animaapp.com/mlgk6ag9Ar1CYd/assets/13.jpg"
-          alt="Secure Telehealth"
+          alt="Secure AI Communication"
           className="w-full h-full object-cover"
         />
         {/* Dark Gradient Overlay for readability at the bottom */}
@@ -33,8 +33,8 @@ export const CTASection = () => {
             Safe, private, and secure.
           </h2>
           <p className="text-white/90 text-sm md:text-base font-suisse_intl_regular max-w-[500px] mx-auto leading-relaxed">
-            Feel confident knowing your practice is fully supported by<br className="hidden md:block" />
-            HIPAA, GDPR, PHIPA/PIPEDA, and HITECH compliance.
+            Feel confident knowing your communication is fully protected by<br className="hidden md:block" />
+            SOC 2, GDPR, HIPAA, and advanced encryption standards.
           </p>
         </div>
 

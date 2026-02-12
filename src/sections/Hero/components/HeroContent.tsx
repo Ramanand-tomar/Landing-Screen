@@ -5,15 +5,15 @@ export const HeroContent = () => {
         <div data-uid="8OEW9kMxnAmOlxMb" className="relative content-center items-center box-border caret-transparent gap-x-4 flex flex-col shrink-0 h-min justify-center max-w-[700px] gap-y-3 md:gap-y-4 w-full overflow-clip">
           <div data-uid="hl9KeEPMk8vIU6zu" className="relative box-border caret-transparent flex flex-col shrink-0 justify-start break-words w-full">
             <h1 data-uid="582XMxpw5e0R4kcE" className="text-neutral-800 mt-6 text-[52px] mb-4 md:text-[58px] font-[450] box-border caret-transparent tracking-[-0.52px] leading-[58px] md:leading-[68px] break-words text-center font-semibold font-suisse_intl_book">
-              The world&#39;s most loved
+              The World&#39;s Advanced
               <br data-uid="OYwyH85PApBKs0J3" className="box-border  caret-transparent break-words" />
-              telemedicine platform
+              Real-Time AI Video Calling
             </h1>
           </div>
           <div data-uid="hrNEUe0XACnhNwYJ" className="relative box-border caret-transparent flex flex-col shrink-0 justify-start max-w-[400px] break-words w-full md:max-w-[500px]">
             <p data-uid="aDV7nUGHPmtt0xwY" className="text-zinc-600 mt-1 text-[20px] md:text-[22px] box-border caret-transparent tracking-[0.19px] md:tracking-[0.22px] leading-[22px] md:leading-[29.7px] break-words text-center font-suisse_intl_regular">
-              Join over 1 million providers who trust doxy.me to deliver
-              HIPAA-compliant care.
+              Join thousands of users who trust BeyondChat for
+              intelligent, seamless video communication.
             </p>
           </div>
         </div>
@@ -56,7 +56,7 @@ export const HeroContent = () => {
           <div className="flex flex-row items-center mt-2 justify-center  gap-3 md:gap-4 w-full md:w-auto">
           {/* Primary CTA */}
           <a
-            href="https://doxy.me/v2/provider-selector/?accountType=free"
+            href="#"
             className="flex h-[48px] md:h-[52px] items-center justify-center border border-black/10 bg-[#63D1C4] hover:bg-[#58bdb1] text-neutral-800 px-5 md:px-8 rounded-[10px] text-[15px] md:rounded-xl font-suisse_intl_medium text-[14px] md:text-[15px] font-medium tracking-tight md:tracking-wide transition-colors w-auto shadow-sm"
           >
             Get started for free

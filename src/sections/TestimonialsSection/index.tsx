@@ -21,7 +21,7 @@ export const TestimonialsSection = () => {
         <TestimonialCard
           type="stat"
           primaryText="12 billion+"
-          secondaryText="minutes of telehealth video provided so far"
+          secondaryText="minutes of secure AI video calling provided so far"
         />
         <TestimonialCard
           type="quote"
@@ -73,7 +73,7 @@ export const TestimonialsSection = () => {
         <TestimonialCard
           type="stat"
           primaryText="1.3 million"
-          secondaryText="weekly sessions delivered with doxy.me"
+          secondaryText="weekly sessions delivered with BeyondChat"
         />
       </div>
     </section>

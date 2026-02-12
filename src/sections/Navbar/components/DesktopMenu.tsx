@@ -65,7 +65,7 @@ export const DesktopMenu = ({ className = "" }: { className?: string }) => {
               <div className="w-9 h-9 rounded-lg bg-neutral-100 flex items-center justify-center text-neutral-600 group-hover/item:bg-white group-hover/item:shadow-sm transition-all">
                 <Maximize className="w-[18px] h-[18px]" />
               </div>
-              <span className="text-[15px] text-neutral-700 font-medium">Telehealth.org</span>
+              <span className="text-[15px] text-neutral-700 font-medium">AI Video Experts</span>
             </a>
           </div>
         </div>
